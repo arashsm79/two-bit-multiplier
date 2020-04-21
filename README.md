@@ -1,4 +1,8 @@
 # Two Bit Multiplier in Proteus
+Since this is a university project I will have to wait until May 5th 2020 to upload the project files.
+
+
+
 A simple two's complement two bit multiplier developed in Proteus.
 This is a good example for developing simple circuits in Proteus for novice logic designers.
 
