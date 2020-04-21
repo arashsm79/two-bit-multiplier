@@ -1,6 +1,6 @@
 # Two Bit Multiplier in Proteus
 A simple two's complement two bit multiplier developed in Proteus.
-This is a perfect example onfor developing simple circuits in Proteus for novice logic designers.
+This is a good example for developing simple circuits in Proteus for novice logic designers.
 
 The truth tables and Karnaugh's maps for the functions are uploaded in the form of a PDF.
 
