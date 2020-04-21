@@ -1,4 +1,4 @@
-# Two Bit Multiplier
+# Two Bit Multiplier in Proteus
 A simple two's complement two bit multiplier developed in Proteus.
 This is a perfect example onfor developing simple circuits in Proteus for novice logic designers.
 
